@@ -1,3 +1,4 @@
 site_name: Тестовый сайт Терёхиной Елизаветы
 theme:
   name: material
+docs_dir: docs
